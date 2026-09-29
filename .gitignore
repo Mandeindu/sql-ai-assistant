@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated FAISS files
+faiss_index/
+
+# Dataset files
+*.xlsx
+*.xls
+*.csv
+
+# VS Code
+.vscode/
